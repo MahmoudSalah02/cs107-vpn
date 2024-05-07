@@ -1,4 +1,6 @@
-# Project README
+# Developing and Improving a Virtual Private Network (VPN)
+
+By: Xianmai Liang, Ao Chan, Mahmoud Salah
 
 ## Overview
 
